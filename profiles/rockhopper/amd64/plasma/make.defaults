@@ -1,0 +1,3 @@
+# Rockhopper Linux defaults (plasma desktop)
+USE="wayland pipewire vulkan -gnome"
+GRUB_PLATFORMS="-pc efi-64"
