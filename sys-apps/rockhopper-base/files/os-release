@@ -1,0 +1,10 @@
+NAME="Rockhopper Linux"
+PRETTY_NAME="Rockhopper Linux 0.1 (Pine Tide)"
+ID=rockhopper
+ID_LIKE=gentoo
+VERSION="0.1 (Pine Tide)"
+VERSION_ID=0.1
+VERSION_CODENAME=pinetide
+ANSI_COLOR="38;2;42;140;116"
+HOME_URL="https://github.com/volntra/rookery"
+LOGO=rockhopper
